@@ -13,7 +13,7 @@ We help engineering teams modernize delivery architecture and adopt AI-native de
 ## Resources
 
 - 🌐 [kisasa.io](https://kisasa.io)
-- 🎙️ [Going to Production Podcast](https://kisasa.io/podcast)
+- 🎙️ [Going to Production Podcast](https://going-to-production.com)
 - 💼 [LinkedIn](https://linkedin.com/company/kisasa)
 - 📺 [YouTube](https://youtube.com/@kisasa)
 
