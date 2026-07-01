@@ -1,26 +1,18 @@
 # Kisasa
 
-Transforming delivery chaos into AI-powered velocity.
-
-We help engineering teams modernize delivery architecture and adopt AI-native development without disrupting ongoing work. We don't hand you a deck and disappear—we pair with your team to ship production code.
+We build the critical systems teams can't afford to get wrong.
+When work has to run for real — money moving, records that get audited, processes that can't silently fail or be left half-finished — we get it into production and make it hold. We don't hand you a deck and disappear. We pair with your team and ship production code.
 
 ## What We Do
 
-- **Blueprint Methodology** - Modern delivery architecture aligned with business goals
-- **AI-Paired Development** - Systematic approach to AI-native development workflows
-- **Modern Delivery Stack** - Connecting business outcomes to technical implementation
+- Critical-systems delivery — durable execution for work that can't be lost, dropped, or left half-finished.
+- Temporal — Certified Temporal Partner. Durable execution is a core practice here, especially in .NET and the enterprise stack.
+- Discovery → Build together — a short, scoped discovery that ends in a plan and a go/no-go, then hands-on delivery alongside your team.
 
-## Resources
+## Show By Doing
+Our repositories are where we work in the open. Start with temporal-samples-dotnet — working durably in C# on the Temporal .NET SDK.
+
+## Find us
 
 - 🌐 [kisasa.io](https://kisasa.io)
-- 🎙️ [Going to Production Podcast](https://going-to-production.com)
 - 💼 [LinkedIn](https://linkedin.com/company/kisasa)
-- 📺 [YouTube](https://youtube.com/@kisasa)
-
-## Open Source
-
-We believe in show by doing. Our repositories demonstrate the methodologies and practices we use with clients.
-
----
-
-*We ship code, not slides.*
